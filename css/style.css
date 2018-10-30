@@ -1,0 +1,65 @@
+h1 {
+  font-size: 50hpx;
+  margin: 500px;
+}
+
+a {
+  display: block;
+}
+
+body {
+  background: linear-gradient(
+    160deg,
+    #030928,
+    #c28200,
+    #dbb000,
+    #5f9782,
+    #ff72b0,
+    #ff9096,
+    #00e59f,
+    #8103ea
+  );
+  background-attachment: fixed;
+}
+
+h1 {
+  background: linear-gradient(
+    160deg,
+    #ff00dd,
+    #7f96ff,
+    #00cfff,
+    #00f2ff,
+    #00ffef,
+    #00ffc0,
+    #4aff7c,
+    #9aff00
+  );
+  font-size: 250px;
+}
+
+p {
+  background: linear-gradient(
+    160deg,
+    #ff00dd,
+    #7f96ff,
+    #00cfff,
+    #00f2ff,
+    #00ffef,
+    #00ffc0,
+    #4aff7c,
+    #9aff00
+  );font-size: 176px;
+ 
+  . animate {width 100px
+  hight 
+    100px} 
+  
+  @keyframes animate_width{
+    from: 100px;{
+
+
+to {
+  width: 100px;}
+
+ background-color: #00ddff;
+    animation: animate-width is infinite alterate;}
